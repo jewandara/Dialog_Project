@@ -1,0 +1,1244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;MeterLabel3.Name" xml:space="preserve">
+    <value>MeterLabel3</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Name" xml:space="preserve">
+    <value>labelbandValue</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Name" xml:space="preserve">
+    <value>textBoxMaxBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Name" xml:space="preserve">
+    <value>labelDirection</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Name" xml:space="preserve">
+    <value>labelBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Name" xml:space="preserve">
+    <value>numericUpDownDownAntennaDirection</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Name" xml:space="preserve">
+    <value>checkBoxViewAntennaDirection</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Name" xml:space="preserve">
+    <value>numericUpDownAntennaBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Name" xml:space="preserve">
+    <value>checkBoxViewAntennaBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Name" xml:space="preserve">
+    <value>MeterLabel2</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Name" xml:space="preserve">
+    <value>comboBoxAntennaBandtype</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Name" xml:space="preserve">
+    <value>MeterLabel1</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBoxAntennaView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 191</value>
+  </data>
+  <data name="groupBoxAntennaView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 116</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="groupBoxAntennaView.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="groupBoxAntennaView.Text" xml:space="preserve">
+    <value> Select Antenna Data</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAntennaView.Name" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAntennaView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAntennaView.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAntennaView.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="MeterLabel3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MeterLabel3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="MeterLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>114, 64</value>
+  </data>
+  <data name="MeterLabel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 20</value>
+  </data>
+  <data name="MeterLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="MeterLabel3.Text" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.Name" xml:space="preserve">
+    <value>MeterLabel3</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="labelbandValue.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelbandValue.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="labelbandValue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 86</value>
+  </data>
+  <data name="labelbandValue.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 16</value>
+  </data>
+  <data name="labelbandValue.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="labelbandValue.Text" xml:space="preserve">
+    <value>900 MHz</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Name" xml:space="preserve">
+    <value>labelbandValue</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelbandValue.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxMaxBeamwidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 63</value>
+  </data>
+  <data name="textBoxMaxBeamwidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 20</value>
+  </data>
+  <data name="textBoxMaxBeamwidth.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Name" xml:space="preserve">
+    <value>textBoxMaxBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;textBoxMaxBeamwidth.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="labelDirection.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelDirection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>428, 88</value>
+  </data>
+  <data name="labelDirection.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 13</value>
+  </data>
+  <data name="labelDirection.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="labelDirection.Text" xml:space="preserve">
+    <value>50  ~  20000</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Name" xml:space="preserve">
+    <value>labelDirection</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelDirection.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="labelBeamwidth.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelBeamwidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>233, 89</value>
+  </data>
+  <data name="labelBeamwidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 13</value>
+  </data>
+  <data name="labelBeamwidth.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="labelBeamwidth.Text" xml:space="preserve">
+    <value>50  ~  15000</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Name" xml:space="preserve">
+    <value>labelBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;labelBeamwidth.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="numericUpDownDownAntennaDirection.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="numericUpDownDownAntennaDirection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>426, 63</value>
+  </data>
+  <data name="numericUpDownDownAntennaDirection.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 22</value>
+  </data>
+  <data name="numericUpDownDownAntennaDirection.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="numericUpDownDownAntennaDirection.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Name" xml:space="preserve">
+    <value>numericUpDownDownAntennaDirection</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownDownAntennaDirection.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.CheckAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>408, 28</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 30</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.Text" xml:space="preserve">
+    <value>View Antenna Direction 
+Distance</value>
+  </data>
+  <data name="checkBoxViewAntennaDirection.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Name" xml:space="preserve">
+    <value>checkBoxViewAntennaDirection</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaDirection.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="numericUpDownAntennaBeamwidth.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="numericUpDownAntennaBeamwidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 63</value>
+  </data>
+  <data name="numericUpDownAntennaBeamwidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 22</value>
+  </data>
+  <data name="numericUpDownAntennaBeamwidth.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="numericUpDownAntennaBeamwidth.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Name" xml:space="preserve">
+    <value>numericUpDownAntennaBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownAntennaBeamwidth.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.CheckAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 28</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.Text" xml:space="preserve">
+    <value>View Antenna Beamwidth 
+Distance</value>
+  </data>
+  <data name="checkBoxViewAntennaBeamwidth.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Name" xml:space="preserve">
+    <value>checkBoxViewAntennaBeamwidth</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxViewAntennaBeamwidth.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="MeterLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MeterLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="MeterLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>509, 65</value>
+  </data>
+  <data name="MeterLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 20</value>
+  </data>
+  <data name="MeterLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="MeterLabel2.Text" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Name" xml:space="preserve">
+    <value>MeterLabel2</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel2.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="comboBoxAntennaBandtype.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 28</value>
+  </data>
+  <data name="comboBoxAntennaBandtype.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 21</value>
+  </data>
+  <data name="comboBoxAntennaBandtype.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Name" xml:space="preserve">
+    <value>comboBoxAntennaBandtype</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;comboBoxAntennaBandtype.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="MeterLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MeterLabel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="MeterLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>311, 65</value>
+  </data>
+  <data name="MeterLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 20</value>
+  </data>
+  <data name="MeterLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="MeterLabel1.Text" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Name" xml:space="preserve">
+    <value>MeterLabel1</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.Parent" xml:space="preserve">
+    <value>groupBoxAntennaView</value>
+  </data>
+  <data name="&gt;&gt;MeterLabel1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="groupBoxSiteView.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
+    <value>textBox4</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Name" xml:space="preserve">
+    <value>numericUpDown2</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Name" xml:space="preserve">
+    <value>radioButtonHutchSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Name" xml:space="preserve">
+    <value>checkBoxSelectOtherSites</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Name" xml:space="preserve">
+    <value>checkBoxSelectDialogSites</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Name" xml:space="preserve">
+    <value>radioButtonLankaBellSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Name" xml:space="preserve">
+    <value>radioButtonMobitelSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Name" xml:space="preserve">
+    <value>radioButtonEtisalatSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="groupBoxSiteView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 51</value>
+  </data>
+  <data name="groupBoxSiteView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 118</value>
+  </data>
+  <data name="groupBoxSiteView.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="groupBoxSiteView.Text" xml:space="preserve">
+    <value> Select Site Data</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSiteView.Name" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSiteView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSiteView.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSiteView.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 60</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 20</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 34</value>
+  </data>
+  <data name="textBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 20</value>
+  </data>
+  <data name="textBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
+    <value>textBox4</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="numericUpDown2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="numericUpDown2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>179, 56</value>
+  </data>
+  <data name="numericUpDown2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 22</value>
+  </data>
+  <data name="numericUpDown2.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="numericUpDown2.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Name" xml:space="preserve">
+    <value>numericUpDown2</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="radioButtonHutchSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonHutchSites.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radioButtonHutchSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>432, 58</value>
+  </data>
+  <data name="radioButtonHutchSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 17</value>
+  </data>
+  <data name="radioButtonHutchSites.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="radioButtonHutchSites.Text" xml:space="preserve">
+    <value>View Hutch Sites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Name" xml:space="preserve">
+    <value>radioButtonHutchSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonHutchSites.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 58</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 20</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Km</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="checkBoxSelectOtherSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxSelectOtherSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>314, 22</value>
+  </data>
+  <data name="checkBoxSelectOtherSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 17</value>
+  </data>
+  <data name="checkBoxSelectOtherSites.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="checkBoxSelectOtherSites.Text" xml:space="preserve">
+    <value>View Other Sites</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Name" xml:space="preserve">
+    <value>checkBoxSelectOtherSites</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectOtherSites.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>176, 81</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Customer Area</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="checkBoxSelectDialogSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxSelectDialogSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>185, 22</value>
+  </data>
+  <data name="checkBoxSelectDialogSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 17</value>
+  </data>
+  <data name="checkBoxSelectDialogSites.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="checkBoxSelectDialogSites.Text" xml:space="preserve">
+    <value>View Dialog Site</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Name" xml:space="preserve">
+    <value>checkBoxSelectDialogSites</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;checkBoxSelectDialogSites.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="radioButtonLankaBellSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonLankaBellSites.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radioButtonLankaBellSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>432, 87</value>
+  </data>
+  <data name="radioButtonLankaBellSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 17</value>
+  </data>
+  <data name="radioButtonLankaBellSites.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="radioButtonLankaBellSites.Text" xml:space="preserve">
+    <value>View LankaBell Sites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Name" xml:space="preserve">
+    <value>radioButtonLankaBellSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLankaBellSites.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="radioButtonMobitelSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonMobitelSites.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radioButtonMobitelSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>314, 58</value>
+  </data>
+  <data name="radioButtonMobitelSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 17</value>
+  </data>
+  <data name="radioButtonMobitelSites.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="radioButtonMobitelSites.Text" xml:space="preserve">
+    <value>View Mobitel Sites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Name" xml:space="preserve">
+    <value>radioButtonMobitelSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMobitelSites.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="radioButtonEtisalatSites.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonEtisalatSites.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radioButtonEtisalatSites.Location" type="System.Drawing.Point, System.Drawing">
+    <value>314, 87</value>
+  </data>
+  <data name="radioButtonEtisalatSites.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 17</value>
+  </data>
+  <data name="radioButtonEtisalatSites.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="radioButtonEtisalatSites.Text" xml:space="preserve">
+    <value>View Etisalat Sites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Name" xml:space="preserve">
+    <value>radioButtonEtisalatSites</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.Parent" xml:space="preserve">
+    <value>groupBoxSiteView</value>
+  </data>
+  <data name="&gt;&gt;radioButtonEtisalatSites.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 365</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 365</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 23</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Save Kml</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>461, 365</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Open Google</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 313</value>
+  </data>
+  <data name="progressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 23</value>
+  </data>
+  <data name="progressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
+    <value>progressBar1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictureBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>634, 28</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>634, 412</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>650, 450</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>650, 450</value>
+  </data>
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>   DialogCustomerPopUpForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>DialogCustomerPopUpForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

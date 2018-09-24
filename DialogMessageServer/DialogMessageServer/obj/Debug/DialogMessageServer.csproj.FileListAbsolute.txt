@@ -1,0 +1,17 @@
+C:\Users\ZIONX\Desktop\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.exe.config
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.exe.config
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.exe.manifest
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.application
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.exe
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\bin\Debug\DialogMessageServer.pdb
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.DialogAboutWindow.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.DialogContactWindow.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.DialogHelpWindow.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.DialogNotificationWindow.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.DialogSplashWindow.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.exe.manifest
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.application
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.exe
+C:\Users\ZIONX\Desktop\DIALOG\DialogMessageServer\DialogMessageServer\obj\Debug\DialogMessageServer.pdb

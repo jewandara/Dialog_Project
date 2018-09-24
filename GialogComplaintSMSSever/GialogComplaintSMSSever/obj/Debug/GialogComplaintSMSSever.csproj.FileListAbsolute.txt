@@ -1,0 +1,9 @@
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\bin\Debug\GialogComplaintSMSSever.exe.config
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\bin\Debug\GialogComplaintSMSSever.exe
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\bin\Debug\GialogComplaintSMSSever.pdb
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.DialogNewSMSNotifiWindow.resources
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.exe
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.pdb
+C:\Users\ZIONX\Desktop\GialogComplaintSMSSever\GialogComplaintSMSSever\obj\Debug\GialogComplaintSMSSever.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\ApplicationIcon.png
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\Background.png
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\DGSM.dll
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\DGSM.pdb
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\DGSM.xml
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\AppManifest.xaml
+C:\Users\ZIONX\Desktop\DGSM\DGSM\Bin\Debug\DGSM.xap
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\App.g.i.vb
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\MainPage.g.i.vb
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\DGSM.g.resources
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\DGSM.dll
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\DGSM.xml
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\DGSM.pdb
+C:\Users\ZIONX\Desktop\DGSM\DGSM\obj\Debug\XapCacheFile.xml

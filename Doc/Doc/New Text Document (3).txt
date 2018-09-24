@@ -1,0 +1,6 @@
+The Dialog Customer server will be stared when the startup your computer.
+After the statup your computer it will serch the GSM 900 modem com port, and connect to the Dialog Sql server.
+If both tarsks are completed, The dialog server send SMS to the Sever Administrator.
+
+One the sending SMS is completed, it is rady to used and waiting for new customer location.
+When a customer send sms to the sever in a correct format, The dialog Customer Server will resived the sms and upload to the sever.

@@ -1,0 +1,16 @@
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogAppKeyForm.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogSelectComplaint.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogSelectCustomer.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogLoginForm.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogMainForm.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogNewCustomer.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogSplashForm.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.DialogWaitForm.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\bin\Debug\DIALOGGSM.exe.config
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\bin\Debug\DIALOGGSM.exe
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\bin\Debug\DIALOGGSM.pdb
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.exe
+C:\Users\ZIONX\Desktop\DIALOG\DIALOGGSM\DIALOGGSM\obj\x86\Debug\DIALOGGSM.pdb

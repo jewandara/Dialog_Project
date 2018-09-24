@@ -1,0 +1,17 @@
+CREATE FUNCTION DEG_TO_DEC(@A_Deg INT, @B_Min INT, @C_Sec FLOAT)
+RETURNS FLOAT
+AS
+BEGIN
+    DECLARE
+       @dDD FLOAT;
+    BEGIN
+       IF ( @A_Deg IS NULL OR @B_Min IS NULL OR @C_Sec IS NULL )RETURN NULL;  
+       SET @dDD = ABS(@A_Deg) + @B_Min / 60.0 + @C_Sec / 3600.0;
+       RETURN SIGN(@A_Deg) * @dDD;
+    END;
+END
+
+
+SELECT dbo.DEG_TO_DEC(75,42,10.27) AS 'LOG', dbo.DEG_TO_DEC(14,8,45.34) AS 'LAT' 
+
+RETURNS FLOAT

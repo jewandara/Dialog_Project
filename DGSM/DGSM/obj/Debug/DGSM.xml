@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DGSM
+</name>
+</assembly>
+<members>
+<member name="M:DGSM.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:DGSM.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:DGSM.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:DGSM.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member>
+</members>
+</doc>
